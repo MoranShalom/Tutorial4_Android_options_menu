@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">optionsMenuTutorial_4</string>
+    <string name="menu_action_setting">Setting</string>
+    <string name="menu_action_about_us">About us</string>
+    <string name="Help">Help</string>
+    <string name="Toast_setting_message">You have clicked on the setting action menu</string>
+</resources>
